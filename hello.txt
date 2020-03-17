@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello world
-=======
-ÄãºÃÊÀ½ç
->>>>>>> testing
+hi
